@@ -1,5 +1,6 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <diff>
 <add sel="(//add_npc_line)[1]" type="@hidechoices">false</add>
 <add sel="(//add_npc_line)[2]" type="@hidechoices">false</add>
+<add sel="(//add_npc_line)[3]" type="@hidechoices">false</add>
 </diff>

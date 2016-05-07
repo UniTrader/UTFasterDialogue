@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <diff>
 <add sel="(//add_npc_line)[1]" type="@hidechoices">false</add>
 <add sel="(//add_npc_line)[2]" type="@hidechoices">false</add>
@@ -18,11 +18,4 @@
 <add sel="(//add_npc_line)[16]" type="@hidechoices">false</add>
 <add sel="(//add_npc_line)[17]" type="@hidechoices">false</add>
 <add sel="(//add_npc_line)[18]" type="@hidechoices">false</add>
-<add sel="(//add_npc_line)[19]" type="@hidechoices">false</add>
-<add sel="(//add_npc_line)[20]" type="@hidechoices">false</add>
-<add sel="(//add_npc_line)[21]" type="@hidechoices">false</add>
-<add sel="(//add_npc_line)[22]" type="@hidechoices">false</add>
-<add sel="(//add_npc_line)[23]" type="@hidechoices">false</add>
-<add sel="(//add_npc_line)[24]" type="@hidechoices">false</add>
-<add sel="(//add_npc_line)[25]" type="@hidechoices">false</add>
 </diff>
