@@ -31,4 +31,8 @@
 <add sel="(//add_npc_line)[29]" type="@hidechoices">false</add>
 <add sel="(//add_npc_line)[30]" type="@hidechoices">false</add>
 <add sel="(//add_npc_line)[31]" type="@hidechoices">false</add>
+<add sel="(//add_npc_line)[32]" type="@hidechoices">false</add>
+<add sel="(//add_npc_line)[33]" type="@hidechoices">false</add>
+<add sel="(//add_npc_line)[34]" type="@hidechoices">false</add>
+<add sel="(//add_npc_line)[35]" type="@hidechoices">false</add>
 </diff>
