@@ -5,5 +5,4 @@
 <add sel="(//add_npc_line)[3]" type="@hidechoices">false</add>
 <add sel="(//add_npc_line)[4]" type="@hidechoices">false</add>
 <add sel="(//add_npc_line)[5]" type="@hidechoices">false</add>
-<add sel="(//add_npc_line)[6]" type="@hidechoices">false</add>
 </diff>
