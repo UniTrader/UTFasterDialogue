@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8" ?>
 <?xml-stylesheet type="text/xsl" href="../../content.xsl"?>
-<content id="UTFasterDialogue" name="Faster Dialogue" description="Disables the hiding of further choices when Characters are still talking - thereby making Dialogue Navigation faster" author="UniTrader" date="2015-06-16" version="10" save="false" uninstaller="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://utnas/~unitrader/XRebirthxsds/content.xsd">
+<content id="UTFasterDialogue" name="Faster Dialogue" description="Disables the hiding of further choices when Characters are still talking - thereby making Dialogue Navigation faster" author="UniTrader" date="2020-06-18" version="20" save="false" uninstaller="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://utnas/~unitrader/XRebirthxsds/content.xsd">
   <text language="44" name="Faster Dialogue" description="Disables the hiding of further choices when Characters are still talking - thereby making Dialogue Navigation faster" author="UniTrader">
     <info site="forum.egosoft.com" url="http://forum.egosoft.com/viewtopic.php?t=379177" />
   </text>
